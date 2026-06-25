@@ -2,6 +2,8 @@
 
 ## Getting started
 
+## Code adapted from the MAS-LoRA paper
+
 Code was developped and tested using Python 3.10.9.
 Install the required packages using :
 ```
