@@ -1,0 +1,18 @@
+# data — never commit (huge, and possibly licensed)
+l2arctic_release_v5.0/
+*.wav
+*.zip
+data/
+# model checkpoints — huge
+*.safetensors
+*.bin
+checkpoint-*/
+debug/
+runs/
+small-L2-ARCTIC*/
+*.log
+# environments
+maslora-env/
+afrispeech-env/
+__pycache__/
+*.pyc
